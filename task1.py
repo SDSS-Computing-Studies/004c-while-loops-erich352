@@ -16,3 +16,9 @@ Example:
 10
 ...
 """
+num = 0
+
+while True:
+    num + 2
+    if num == 20:
+    break

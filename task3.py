@@ -19,3 +19,6 @@ Enter number:4
 That is an even integer
 
 """
+
+input()
+
