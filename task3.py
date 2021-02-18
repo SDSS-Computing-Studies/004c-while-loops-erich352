@@ -22,3 +22,8 @@ That is an even integer
 
 input()
 
+while input():
+    if int:
+        print("That is an even integer")
+    if else:
+        print("That is not an even integer")
